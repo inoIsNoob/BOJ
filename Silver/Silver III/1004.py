@@ -15,3 +15,4 @@ for _ in range(int(input())):
                 res += 1
     
     print(res)
+    
