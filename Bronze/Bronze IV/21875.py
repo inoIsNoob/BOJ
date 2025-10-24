@@ -1,0 +1,5 @@
+a = input()
+b = input()
+f = abs(ord(a[0]) - ord(b[0]))
+s = abs(int(a[1]) - int(b[1]))
+print(*sorted([f,s]))
